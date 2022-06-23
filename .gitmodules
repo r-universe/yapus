@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "imageviewer"]
+	path = imageviewer
+	url = https://github.com/yapus/imageviewer
+	shallow = true
+	registered = true
